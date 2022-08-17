@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A. Immanual Sarker</h1>
-<h3 align="center">A passionate and sincere full stack web developer from Bangladesh.</h3>
+<h3 align="center">A passionate and sincere full stack web developer from Bangladesh. Currently studying B.Sc(Engg.) in CSE at MBSTU</h3>
 
 - 🔭 I’m currently working on **full stack web development with MERN technology.**
 
