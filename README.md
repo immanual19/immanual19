@@ -10,8 +10,8 @@
 - Know about my experiences [https://drive.google.com/file/d/1Z-6S7IWbn5uzYMzrMx4LlcBkrgsjzSXu/view]
 
 
-- Fun fact **Problem solving helps to think about every possible scenario in a given context.**
-- Fun fact **Everything on website looks different once you're into web development.**
+- Fun fact: **Problem solving helps to think about every possible scenario in a given context.**
+- Fun fact: **Everything on website looks different once you're into web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
