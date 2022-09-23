@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm A. Immanual Sarker</h1>
 <h3 align="center">A passionate and sincere full stack web developer from Bangladesh. Currently studying B.Sc(Engg.) in CSE at MBSTU</h3>
 
-- 🔭 Beginner in **Competitive Programming**
+- Beginner in **Competitive Programming**
 
-- 🔭 Currently working on **full stack web development with MERN technology**
+- Currently working on **full stack web development with MERN technology**
 
-- 👯 Looking to collaborate with **other MERN stack developer**
+- Looking to collaborate with **other MERN stack developer**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z-6S7IWbn5uzYMzrMx4LlcBkrgsjzSXu/view]
+- Know about my experiences [https://drive.google.com/file/d/1Z-6S7IWbn5uzYMzrMx4LlcBkrgsjzSXu/view]
 
 
-- ⚡ Fun fact **Problem solving helps to think about every possible scenario in a given context.**
-- ⚡ Fun fact **Everything on website looks different once you're into web development.**
+- Fun fact **Problem solving helps to think about every possible scenario in a given context.**
+- Fun fact **Everything on website looks different once you're into web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
