@@ -7,7 +7,7 @@
 
 - Looking to collaborate with **other MERN stack developer**
 
-- Know about my experiences [https://drive.google.com/file/d/1Z-6S7IWbn5uzYMzrMx4LlcBkrgsjzSXu/view]
+- Know about my experiences [https://drive.google.com/file/d/1jkSmnHK7_FaAM5K-YUhPa0CWiCc4gqJF/view?usp=share_link]
 
 
 - Fun fact: **Problem solving helps to think about every possible scenario in a given context.**
