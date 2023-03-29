@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm A. Immanual Sarker</h1>
-<h3 align="center">A passionate and sincere full stack web developer from Bangladesh. Currently studying B.Sc(Engg.) in CSE at MBSTU</h3>
+<h3 align="center">A passionate and sincere full stack web developer from Bangladesh. Completed B.Sc(Engg.) in Computer Science and Engineering from Mawlana Bhashani Science and Technology University</h3>
 
 - Beginner in ** <a href="https://www.stopstalk.com/user/profile/immanual19"> Competitive Programming </a>**
 
